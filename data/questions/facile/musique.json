@@ -1,0 +1,135 @@
+[
+  {
+    "question": "Quel est le nom du chanteur principal des Beatles ?",
+    "options": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"],
+    "correctAnswer": "John Lennon",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel instrument est joué par Mozart ?",
+    "options": ["Piano", "Violon", "Guitare", "Batterie"],
+    "correctAnswer": "Piano",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel est le titre du premier album de Michael Jackson ?",
+    "options": ["Thriller", "Bad", "Off the Wall", "Dangerous"],
+    "correctAnswer": "Off the Wall",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
+    "options": ["The Beatles", "Queen", "The Rolling Stones", "Led Zeppelin"],
+    "correctAnswer": "Queen",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Qui a composé la 'Symphonie No. 9' ?",
+    "options": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Frédéric Chopin"],
+    "correctAnswer": "Ludwig van Beethoven",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel est le genre musical de la chanson 'Shape of You' ?",
+    "options": ["Pop", "Rock", "Classique", "Jazz"],
+    "correctAnswer": "Pop",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel instrument est souvent joué par Louis Armstrong ?",
+    "options": ["Piano", "Saxophone", "Guitare", "Trompette"],
+    "correctAnswer": "Trompette",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel est le nom de la célèbre chanteuse américaine surnommée 'Queen of Pop' ?",
+    "options": ["Beyoncé", "Madonna", "Rihanna", "Lady Gaga"],
+    "correctAnswer": "Madonna",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel artiste a chanté 'Someone Like You' ?",
+    "options": ["Adele", "Ed Sheeran", "Taylor Swift", "Sam Smith"],
+    "correctAnswer": "Adele",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel groupe a écrit la chanson 'Stairway to Heaven' ?",
+    "options": ["Led Zeppelin", "AC/DC", "The Beatles", "Pink Floyd"],
+    "correctAnswer": "Led Zeppelin",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Qui est l'auteur de la chanson 'Yesterday' ?",
+    "options": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"],
+    "correctAnswer": "Paul McCartney",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel est le prénom du chanteur de la chanson 'Just the Way You Are' ?",
+    "options": ["Bruno", "Ed", "John", "James"],
+    "correctAnswer": "Bruno",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel est le genre musical de 'Despacito' de Luis Fonsi ?",
+    "options": ["Reggaeton", "Pop", "R&B", "Rock"],
+    "correctAnswer": "Reggaeton",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Qui a chanté 'I Will Always Love You' ?",
+    "options": ["Beyoncé", "Whitney Houston", "Celine Dion", "Mariah Carey"],
+    "correctAnswer": "Whitney Houston",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
+    "options": ["Nirvana", "Pearl Jam", "Green Day", "The Offspring"],
+    "correctAnswer": "Nirvana",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel est le prénom du guitariste de 'The Rolling Stones' ?",
+    "options": ["Mick", "Keith", "Charlie", "Brian"],
+    "correctAnswer": "Keith",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Dans quelle année Michael Jackson a-t-il sorti 'Thriller' ?",
+    "options": ["1982", "1980", "1984", "1986"],
+    "correctAnswer": "1982",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Qui a chanté 'Hound Dog' ?",
+    "options": ["Elvis Presley", "Chuck Berry", "Little Richard", "Buddy Holly"],
+    "correctAnswer": "Elvis Presley",
+    "difficulty": "facile",
+    "category": "Musique"
+  },
+  {
+    "question": "Quel est le genre musical de la chanson 'Bohemian Rhapsody' ?",
+    "options": ["Rock", "Pop", "Jazz", "Blues"],
+    "correctAnswer": "Rock",
+    "difficulty": "facile",
+    "category": "Musique"
+  }
+]

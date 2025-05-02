@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Realtime</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+  >
+  <style>
+    body, html {
+      height:100%;
+      margin:0;
+      background: linear-gradient(135deg,#6e8efb,#a777e3);
+      color:#fff;
+    }
+    .panel {
+      background: rgba(255,255,255,0.1);
+      border-radius:.5rem;
+    }
+    .btn-primary { background-color:#5a67d8; border:none; }
+    .btn-danger  { background-color:#e53e3e; border:none; }
+    .btn-warning { background-color:#dd6b20; border:none; }
+
+    #lobbyList .card {
+      cursor:pointer;
+      transition: transform .2s, box-shadow .2s;
+    }
+    #lobbyList .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    }
+
+    /* Masque toutes les vues de jeu / résultats par défaut */
+    #gameView,
+    #resultView {
+      display: none;
+      height: 100vh;
+    }
+
+    /* Overlay global countdown */
+    #countdownOverlay {
+      position:fixed; top:0; left:0;
+      width:100%; height:100%;
+      background:rgba(0,0,0,0.6);
+      display:flex; align-items:center; justify-content:center;
+      z-index:2000;
+      font-size:8rem; color:#fff;
+    }
+
+    /* Progress bar styling */
+    #questionProgress {
+      height: 1.5rem;
+    }
+  </style>
+</head>
+<body class="d-flex vh-100">
+
+  <!-- === Liste des lobbies === -->
+  <div id="lobbyList" class="container d-flex flex-column justify-content-center align-items-center">
+    <p class="mb-2">
+      Connecté en tant <strong id="userLabel"></strong>
+      <a href="/logout" class="text-light ms-3">Se déconnecter</a>
+    </p>
+    <h1 class="mb-4">Lobbies Disponibles</h1>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 w-100 justify-content-center mb-4"></div>
+    <button id="createLobbyBtn" class="btn btn-light">Créer un nouveau Lobby</button>
+  </div>
+
+  <!-- === Lobby Room === -->
+  <div id="lobbyRoom" class="container d-none d-flex flex-column justify-content-center align-items-center">
+    <div class="row w-100">
+
+      <!-- Panneau Host -->
+      <div class="col-12 col-md-4 mb-4">
+        <div id="hostPanel" class="panel p-4 shadow">
+          <h4 class="mb-3">Panneau de configuration</h4>
+
+          <!-- Nombre de manches -->
+          <div class="mb-3">
+            <label class="form-label">Nombre de manches</label>
+            <input id="roundsInput" type="number" class="form-control" min="1">
+          </div>
+
+          <!-- Déplacé : Catégories sous Nombre de manches -->
+          <div class="mb-3">
+            <label class="form-label">Catégories</label>
+            <div id="categoriesContainer" class="d-flex flex-wrap gap-2">
+              <input type="checkbox" class="btn-check" id="cat_tout" value="Tout" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_tout">Tout</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_films" value="Films/Séries" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_films">Films/Séries</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_geo" value="Géographie" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_geo">Géographie</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_histo" value="Histoire" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_histo">Histoire</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_jeux" value="Jeux-vidéos" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_jeux">Jeux-vidéos</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_logique" value="Logique" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_logique">Logique</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_musique" value="Musique" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_musique">Musique</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_science" value="Science" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_science">Science</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_sport" value="Sport" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_sport">Sport</label>
+          
+              <input type="checkbox" class="btn-check" id="cat_lit" value="Littérature" autocomplete="off">
+              <label class="btn btn-outline-light" for="cat_lit">Littérature</label>
+            </div>
+          </div>
+
+          <!-- Difficulté -->
+          <div class="mb-3">
+            <label class="form-label">Difficulté</label>
+            <select id="difficultySelect" class="form-select">
+              <option value="easy">Facile</option>
+              <option value="medium">Moyen</option>
+              <option value="hard">Difficile</option>
+            </select>
+          </div>
+
+          <!-- Temps/question -->
+          <div class="mb-3">
+            <label class="form-label">Temps/question (s)</label>
+            <input id="timeInput" type="number" class="form-control" min="5">
+          </div>
+
+          <!-- Mot de passe -->
+          <div class="mb-3">
+            <label class="form-label">Mot de passe (optionnel)</label>
+            <input id="passwordInput" type="text" class="form-control"
+                   placeholder="Laissez vide pour aucun mot de passe">
+          </div>
+
+          <button id="startBtn" class="btn btn-primary w-100 mb-2">Lancer la partie</button>
+          <button id="destroyBtn" class="btn btn-danger w-100 mb-2">Détruire le lobby</button>
+        </div>
+      </div>
+
+      <!-- Partager & joueurs -->
+      <div class="col-12 col-md-8">
+        <div class="panel p-4 shadow position-relative">
+          <div id="shareContainer" class="mb-3 d-none">
+            <label class="form-label">Partager le lobby</label>
+            <div class="input-group">
+              <input type="text" id="shareInput" class="form-control" readonly>
+              <button id="copyBtn" class="btn btn-outline-light">Copier</button>
+            </div>
+          </div>
+          <h4 class="mb-3">Joueurs dans le lobby</h4>
+          <ul id="playersList" class="list-group mb-5"></ul>
+          <button id="leaveBtn"
+                  class="btn btn-outline-light position-absolute end-0 bottom-0 m-3">
+            Quitter le lobby
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- === Vue de jeu === -->
+  <div id="gameView" class="d-none d-flex flex-column justify-content-center align-items-center vh-100 w-100">
+    <div class="panel p-4 mb-3 text-center w-50">
+      <h4 id="questionHeader"></h4>
+      <p id="questionText"></p>
+      <div class="progress mb-3">
+        <div id="questionProgress"
+             class="progress-bar progress-bar-striped progress-bar-animated"
+             role="progressbar" style="width:100%"></div>
+      </div>
+      <div>Temps restant : <span id="timerCount"></span>s</div>
+    </div>
+    <div id="choicesContainer" class="list-group w-50 mb-3 text-center"></div>
+    <!-- Scoreboard masqué durant la partie -->
+    <div id="scoresBoard" class="panel p-3 shadow w-25 text-center d-none">
+      <h5>Scores</h5>
+      <ul id="scoreList" class="list-group"></ul>
+    </div>
+  </div>
+
+  <!-- === Vue Résultats === -->
+  <div id="resultView" class="d-none d-flex flex-column justify-content-center align-items-center vh-100 w-100">
+    <div class="panel p-4 text-center w-50">
+      <h4>Résultats finaux</h4>
+      <ul id="finalScoreList" class="list-group mb-3"></ul>
+      <button id="returnBtn" class="btn btn-primary mb-2">Retour au lobby</button>
+      <p id="waitingText" class="mt-3 d-none">En attente de l’hôte…</p>
+    </div>
+  </div>
+
+  <!-- === Modal mot de passe === -->
+  <div class="modal fade" id="passwordModal" tabindex="-1"
+       aria-labelledby="passwordModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content text-dark">
+        <div class="modal-header">
+          <h5 class="modal-title" id="passwordModalLabel">Mot de passe requis</h5>
+          <button type="button" class="btn-close"
+                  data-bs-dismiss="modal" aria-label="Fermer"></button>
+        </div>
+        <div class="modal-body">
+          <div id="passwordError" class="text-danger mb-2 d-none"></div>
+          <div class="mb-3">
+            <label for="passwordInputJoin" class="form-label">
+              Entrez le mot de passe
+            </label>
+            <input type="password" id="passwordInputJoin" class="form-control">
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary"
+                  data-bs-dismiss="modal">Annuler</button>
+          <button type="button" id="passwordSubmitBtn"
+                  class="btn btn-primary">Rejoindre</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- === Overlay global countdown === -->
+  <div id="countdownOverlay" class="d-none">
+    <span id="countdownText">5</span>
+  </div>
+
+  <!-- === Toasts === -->
+  <div id="toastContainer"
+       class="position-fixed top-0 end-0 p-3"
+       style="z-index:1055"></div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js">
+  </script>
+  <script src="client.js"></script>
+</body>
+</html>

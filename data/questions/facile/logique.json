@@ -1,0 +1,163 @@
+[
+  {
+    "question": "Quel est le nombre suivant dans cette séquence : 2, 4, 6, 8, ?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": "10",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Si 3x = 9, quelle est la valeur de x ?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Combien de côtés a un triangle ?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "3",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Si 5 + 7 = 12, 10 + 2 = 12, 3 + 9 = 12, quel est le résultat de 8 + 4 ?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": "12",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est le nombre qui manque dans cette série : 5, 10, 15, ?, 25 ?",
+    "options": ["18", "20", "22", "24"],
+    "correctAnswer": "20",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel nombre est le double de 7 ?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": "14",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est l'intrus parmi les suivants : 3, 6, 9, 12, 15 ?",
+    "options": ["3", "6", "9", "15"],
+    "correctAnswer": "15",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Si un train roule à 60 km/h, combien de kilomètres parcourra-t-il en 2 heures ?",
+    "options": ["100 km", "120 km", "150 km", "200 km"],
+    "correctAnswer": "120 km",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est l'intrus parmi les éléments suivants : carré, rectangle, triangle, cercle ?",
+    "options": ["Carré", "Rectangle", "Triangle", "Cercle"],
+    "correctAnswer": "Cercle",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Combien de secondes y a-t-il dans une minute ?",
+    "options": ["30", "60", "120", "100"],
+    "correctAnswer": "60",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Si une pomme coûte 3 euros, combien coûtent 5 pommes ?",
+    "options": ["10", "12", "15", "18"],
+    "correctAnswer": "15",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est le prochain nombre dans cette séquence : 1, 4, 9, 16, ?",
+    "options": ["25", "36", "49", "64"],
+    "correctAnswer": "25",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Combien de mois y a-t-il dans une année ?",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": "12",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est l'intrus parmi ces animaux : chat, chien, cheval, tomate ?",
+    "options": ["Chat", "Chien", "Cheval", "Tomate"],
+    "correctAnswer": "Tomate",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Si un rectangle a une longueur de 5 cm et une largeur de 3 cm, quelle est sa superficie ?",
+    "options": ["15 cm²", "10 cm²", "20 cm²", "8 cm²"],
+    "correctAnswer": "15 cm²",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est le prochain nombre dans la séquence suivante : 2, 4, 8, 16, ?",
+    "options": ["32", "24", "18", "10"],
+    "correctAnswer": "32",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est le produit de 6 et 7 ?",
+    "options": ["42", "36", "56", "48"],
+    "correctAnswer": "42",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Si aujourd'hui est lundi, quel jour sera-t-il dans 5 jours ?",
+    "options": ["Vendredi", "Dimanche", "Samedi", "Jeudi"],
+    "correctAnswer": "Samedi",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est l'intrus parmi les éléments suivants : mars, avril, mai, samedi ?",
+    "options": ["Mars", "Avril", "Samedi", "Mai"],
+    "correctAnswer": "Samedi",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est l'intrus parmi ces fruits : pomme, orange, banane, carotte ?",
+    "options": ["Pomme", "Banane", "Carotte", "Orange"],
+    "correctAnswer": "Carotte",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel est l'élément qui manque dans la série suivante : 5, 10, 15, ?, 25 ?",
+    "options": ["17", "18", "20", "22"],
+    "correctAnswer": "20",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Combien de coins a un cube ?",
+    "options": ["6", "8", "10", "12"],
+    "correctAnswer": "8",
+    "difficulty": "facile",
+    "category": "Logique"
+  },
+  {
+    "question": "Quel nombre est la somme de 12 et 7 ?",
+    "options": ["15", "16", "17", "18"],
+    "correctAnswer": "19",
+    "difficulty": "facile",
+    "category": "Logique"
+  }
+]

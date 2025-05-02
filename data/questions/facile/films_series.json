@@ -1,0 +1,212 @@
+[
+	{
+		"question": "Quel est le nom du sorcier principal dans la saga Harry Potter ?",
+		"options": ["Ron Weasley", "Albus Dumbledore", "Voldemort", "Severus Snape"],
+		"correctAnswer": "Albus Dumbledore",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel super-héros est aussi connu sous le nom de Bruce Wayne ?",
+		"options": ["Iron Man", "Superman", "Batman", "Spider-Man"],
+		"correctAnswer": "Batman",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quelle série retrouve-t-on le personnage de Walter White ?",
+		"options": ["Stranger Things", "Breaking Bad", "Dexter", "Ozark"],
+		"correctAnswer": "Breaking Bad",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel est le prénom du célèbre aventurier 'Jones' dans les films ?",
+		"options": ["Indiana", "Jack", "Luke", "Tom"],
+		"correctAnswer": "Indiana",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel personnage porte une armure rouge et or dans l'univers Marvel ?",
+		"options": ["Hulk", "Iron Man", "Captain America", "Thor"],
+		"correctAnswer": "Iron Man",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Qui est le meilleur ami de Shrek ?",
+		"options": ["L’Âne", "Fiona", "Dragonne", "Chat botté"],
+		"correctAnswer": "L’Âne",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quelle série met en scène un trône de fer ?",
+		"options": ["Vikings", "The Witcher", "Game of Thrones", "Merlin"],
+		"correctAnswer": "Game of Thrones",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quel film entend-on la chanson 'Let It Go' ?",
+		"options": ["Raiponce", "Encanto", "Reine des Neiges", "Vaiana"],
+		"correctAnswer": "Reine des Neiges",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel est le nom du capitaine pirate dans 'Pirates des Caraïbes' ?",
+		"options": ["Capitaine Flint", "Capitaine Crochet", "Jack Sparrow", "Capitaine Barbe-Noire"],
+		"correctAnswer": "Jack Sparrow",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel est le nom du robot dans 'Wall-E' ?",
+		"options": ["Wally", "R2-D2", "Wall-E", "EVA"],
+		"correctAnswer": "Wall-E",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quelle saga met en scène les personnages Frodon et Gandalf ?",
+		"options": ["Narnia", "Le Seigneur des Anneaux", "Harry Potter", "Game of Thrones"],
+		"correctAnswer": "Le Seigneur des Anneaux",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Qui est le père de Luke Skywalker ?",
+		"options": ["Yoda", "Obi-Wan", "Anakin Skywalker", "Han Solo"],
+		"correctAnswer": "Anakin Skywalker",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quelle série une maison est divisée en Gryffondor, Serpentard, etc. ?",
+		"options": ["Merlin", "Harry Potter", "The Magicians", "Charmed"],
+		"correctAnswer": "Harry Potter",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans 'Le Roi Lion', quel est le nom du père de Simba ?",
+		"options": ["Mufasa", "Zazu", "Rafiki", "Scar"],
+		"correctAnswer": "Mufasa",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel est le prénom de Mr. Bean ?",
+		"options": ["John", "Rowan", "Edward", "Bean"],
+		"correctAnswer": "Bean",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans 'Spider-Man', quel est le vrai nom du héros ?",
+		"options": ["Peter Parker", "Clark Kent", "Bruce Banner", "Tony Stark"],
+		"correctAnswer": "Peter Parker",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel jouet est un cow-boy dans Toy Story ?",
+		"options": ["Buzz", "Woody", "Rex", "Mr. Patate"],
+		"correctAnswer": "Woody",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quelle série les personnages vivent à Springfield ?",
+		"options": ["Family Guy", "South Park", "Les Simpson", "Rick and Morty"],
+		"correctAnswer": "Les Simpson",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quelle est la spécialité de Sherlock Holmes ?",
+		"options": ["Magicien", "Policier", "Détective", "Professeur"],
+		"correctAnswer": "Détective",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans 'Stranger Things', quel est le nom de la fille aux pouvoirs ?",
+		"options": ["Onze", "Dix", "Huit", "Cinq"],
+		"correctAnswer": "Onze",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans 'Les Indestructibles', quel est le pouvoir de Violette ?",
+		"options": ["Voler", "Force surhumaine", "Invisibilité", "Élasticité"],
+		"correctAnswer": "Invisibilité",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quel film trouve-t-on un ogre nommé Shrek ?",
+		"options": ["Shrek", "Fiona", "Ogreland", "Marais Magique"],
+		"correctAnswer": "Shrek",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans 'Avatar', de quelle couleur sont les Na’vi ?",
+		"options": ["Verts", "Bleus", "Rouges", "Jaunes"],
+		"correctAnswer": "Bleus",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel est le métier de Tony Stark ?",
+		"options": ["Médecin", "Ingénieur", "Professeur", "Avocat"],
+		"correctAnswer": "Ingénieur",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel est le nom du panda dans 'Kung Fu Panda' ?",
+		"options": ["Ping", "Po", "Tai Lung", "Shifu"],
+		"correctAnswer": "Po",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans 'Monstres & Cie', qui est le monstre bleu ?",
+		"options": ["Sulli", "Mike", "Randall", "Boo"],
+		"correctAnswer": "Sulli",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quelle saga les anneaux ont un grand pouvoir ?",
+		"options": ["Le Hobbit", "Le Seigneur des Anneaux", "Narnia", "Harry Potter"],
+		"correctAnswer": "Le Seigneur des Anneaux",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Quel est le nom de la série avec un trône de fer ?",
+		"options": ["The Crown", "Game of Thrones", "Vikings", "House of Cards"],
+		"correctAnswer": "Game of Thrones",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quel film retrouve-t-on un génie dans une lampe ?",
+		"options": ["Aladdin", "Sinbad", "Hercule", "Tarzan"],
+		"correctAnswer": "Aladdin",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	},
+	{
+		"question": "Dans quelle série le héros est un chimiste devenu criminel ?",
+		"options": ["Narcos", "Breaking Bad", "Ozark", "El Chapo"],
+		"correctAnswer": "Breaking Bad",
+		"difficulty": "facile",
+		"category": "Film/Series"
+	}
+]

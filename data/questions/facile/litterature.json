@@ -1,0 +1,149 @@
+[
+  {
+    "question": "Qui est l'auteur du livre 'Les Misérables' ?",
+    "options": ["Victor Hugo", "Émile Zola", "Albert Camus", "Marcel Proust"],
+    "correctAnswer": "Victor Hugo",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel est le nom du personnage principal dans le livre '1984' de George Orwell ?",
+    "options": ["Winston Smith", "Oliver Twist", "Hercule Poirot", "Sherlock Holmes"],
+    "correctAnswer": "Winston Smith",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Dans quel livre trouve-t-on un monstre nommé 'Frankenstein' ?",
+    "options": ["Frankenstein", "Le Dr Jekyll et Mr Hyde", "Le Portrait de Dorian Gray", "L'Île au trésor"],
+    "correctAnswer": "Frankenstein",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Qui a écrit 'Les Fleurs du mal' ?",
+    "options": ["Charles Baudelaire", "Paul Verlaine", "Arthur Rimbaud", "Stéphane Mallarmé"],
+    "correctAnswer": "Charles Baudelaire",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel est le nom de l'auteur de 'Harry Potter' ?",
+    "options": ["J.K. Rowling", "C.S. Lewis", "J.R.R. Tolkien", "Roald Dahl"],
+    "correctAnswer": "J.K. Rowling",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Dans quel livre le personnage d'Emma Bovary apparaît-il ?",
+    "options": ["Madame Bovary", "Les Misérables", "Germinal", "La Chartreuse de Parme"],
+    "correctAnswer": "Madame Bovary",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel écrivain a écrit 'L'Attrape-cœurs' ?",
+    "options": ["J.D. Salinger", "Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck"],
+    "correctAnswer": "J.D. Salinger",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel est le titre du roman de George Orwell qui dénonce un totalitarisme futuriste ?",
+    "options": ["1984", "La Ferme des animaux", "Le Meilleur des mondes", "Fahrenheit 451"],
+    "correctAnswer": "1984",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "options": ["Antoine de Saint-Exupéry", "Victor Hugo", "Marcel Proust", "Albert Camus"],
+    "correctAnswer": "Antoine de Saint-Exupéry",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Dans quel roman trouve-t-on les personnages de Sherlock Holmes et du Dr Watson ?",
+    "options": ["Les Aventures de Sherlock Holmes", "Le Chien des Baskerville", "L'Île au trésor", "Dracula"],
+    "correctAnswer": "Les Aventures de Sherlock Holmes",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel auteur a écrit 'À la recherche du temps perdu' ?",
+    "options": ["Marcel Proust", "Stendhal", "Honoré de Balzac", "Gustave Flaubert"],
+    "correctAnswer": "Marcel Proust",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel écrivain a créé le personnage de Hercule Poirot ?",
+    "options": ["Agatha Christie", "Arthur Conan Doyle", "Dashiell Hammett", "Raymond Chandler"],
+    "correctAnswer": "Agatha Christie",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Dans quel livre trouve-t-on le personnage de Jean Valjean ?",
+    "options": ["Les Misérables", "Notre-Dame de Paris", "Germinal", "L'Étranger"],
+    "correctAnswer": "Les Misérables",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel écrivain a écrit 'La Guerre des mondes' ?",
+    "options": ["H.G. Wells", "Jules Verne", "Isaac Asimov", "Arthur C. Clarke"],
+    "correctAnswer": "H.G. Wells",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Dans quel roman trouve-t-on le personnage d'Oliver Twist ?",
+    "options": ["Oliver Twist", "David Copperfield", "Les Grandes Espérances", "Un chant de Noël"],
+    "correctAnswer": "Oliver Twist",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Qui est l'auteur de 'Don Quichotte' ?",
+    "options": ["Miguel de Cervantes", "Pablo Neruda", "Gabriel García Márquez", "Jorge Luis Borges"],
+    "correctAnswer": "Miguel de Cervantes",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel est le nom du roman de Mary Shelley qui raconte l'histoire du Dr Frankenstein ?",
+    "options": ["Frankenstein", "Le Portrait de Dorian Gray", "Dracula", "L'Étrange Cas du Dr Jekyll et de M. Hyde"],
+    "correctAnswer": "Frankenstein",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Qui a écrit 'Les Raisins de la colère' ?",
+    "options": ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"],
+    "correctAnswer": "John Steinbeck",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Dans quel livre de J.R.R. Tolkien le personnage de Bilbo Baggins apparaît-il pour la première fois ?",
+    "options": ["Le Hobbit", "Le Seigneur des Anneaux", "Les Enfants de Húrin", "La Chute de Gondolin"],
+    "correctAnswer": "Le Hobbit",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Qui a écrit 'Le Comte de Monte-Cristo' ?",
+    "options": ["Alexandre Dumas", "Victor Hugo", "Émile Zola", "Jules Verne"],
+    "correctAnswer": "Alexandre Dumas",
+    "difficulty": "facile",
+    "category": "Littérature"
+  },
+  {
+    "question": "Quel est le nom du roman de Charles Dickens qui raconte l'histoire de l'enfance difficile de David Copperfield ?",
+    "options": ["David Copperfield", "Oliver Twist", "Les Grandes Espérances", "A Tale of Two Cities"],
+    "correctAnswer": "David Copperfield",
+    "difficulty": "facile",
+    "category": "Littérature"
+  }
+]

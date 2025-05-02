@@ -1,0 +1,212 @@
+[
+	{
+		"question": "Quelle est la capitale de la France ?",
+		"options": ["Lyon", "Marseille", "Paris", "Nice"],
+		"correctAnswer": "Paris",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel est le plus grand océan du monde ?",
+		"options": ["Océan Atlantique", "Océan Indien", "Océan Arctique", "Océan Pacifique"],
+		"correctAnswer": "Océan Pacifique",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Dans quel pays se trouve la Tour de Pise ?",
+		"options": ["Espagne", "Grèce", "Italie", "France"],
+		"correctAnswer": "Italie",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel est le plus long fleuve du monde ?",
+		"options": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+		"correctAnswer": "Amazone",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel est le désert le plus chaud du monde ?",
+		"options": ["Désert de Gobi", "Désert d’Atacama", "Sahara", "Kalahari"],
+		"correctAnswer": "Sahara",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Combien y a-t-il de continents sur Terre ?",
+		"options": ["5", "6", "7", "4"],
+		"correctAnswer": "7",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quelle mer borde la côte sud de la France ?",
+		"options": ["Mer Noire", "Mer Méditerranée", "Mer du Nord", "Mer Baltique"],
+		"correctAnswer": "Mer Méditerranée",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quelle est la capitale du Japon ?",
+		"options": ["Pékin", "Séoul", "Tokyo", "Bangkok"],
+		"correctAnswer": "Tokyo",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays a la forme d'une botte ?",
+		"options": ["Portugal", "Italie", "Grèce", "Croatie"],
+		"correctAnswer": "Italie",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Dans quel pays se trouvent les pyramides de Gizeh ?",
+		"options": ["Maroc", "Égypte", "Mexique", "Irak"],
+		"correctAnswer": "Égypte",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays a Paris comme capitale ?",
+		"options": ["Italie", "France", "Espagne", "Suisse"],
+		"correctAnswer": "France",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel est le plus haut sommet du monde ?",
+		"options": ["Mont Blanc", "K2", "Mont Fuji", "Everest"],
+		"correctAnswer": "Everest",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel est le continent de l’Australie ?",
+		"options": ["Océanie", "Asie", "Europe", "Afrique"],
+		"correctAnswer": "Océanie",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Dans quel océan se trouve Madagascar ?",
+		"options": ["Atlantique", "Arctique", "Indien", "Pacifique"],
+		"correctAnswer": "Indien",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays est connu pour ses tulipes et ses moulins ?",
+		"options": ["France", "Belgique", "Pays-Bas", "Allemagne"],
+		"correctAnswer": "Pays-Bas",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quelle est la capitale du Royaume-Uni ?",
+		"options": ["Londres", "Edimbourg", "Cardiff", "Dublin"],
+		"correctAnswer": "Londres",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays est le plus peuplé au monde ?",
+		"options": ["Inde", "États-Unis", "Indonésie", "Chine"],
+		"correctAnswer": "Chine",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays est bordé par l’Atlantique et le Pacifique ?",
+		"options": ["Mexique", "États-Unis", "Brésil", "Argentine"],
+		"correctAnswer": "États-Unis",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays est une île et un continent ?",
+		"options": ["Indonésie", "Australie", "Japon", "Nouvelle-Zélande"],
+		"correctAnswer": "Australie",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel fleuve traverse Paris ?",
+		"options": ["Loire", "Seine", "Rhône", "Garonne"],
+		"correctAnswer": "Seine",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quelle chaîne de montagnes sépare la France et l’Espagne ?",
+		"options": ["Alpes", "Jura", "Vosges", "Pyrénées"],
+		"correctAnswer": "Pyrénées",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Où se trouve le mont Fuji ?",
+		"options": ["Chine", "Japon", "Corée", "Vietnam"],
+		"correctAnswer": "Japon",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quelle est la capitale de l’Allemagne ?",
+		"options": ["Berlin", "Munich", "Francfort", "Hambourg"],
+		"correctAnswer": "Berlin",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Dans quel pays se trouve Rio de Janeiro ?",
+		"options": ["Argentine", "Colombie", "Brésil", "Pérou"],
+		"correctAnswer": "Brésil",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quelle mer se trouve entre la France et l’Angleterre ?",
+		"options": ["Mer du Nord", "Océan Atlantique", "Manche", "Mer Méditerranée"],
+		"correctAnswer": "Manche",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays a pour capitale Ottawa ?",
+		"options": ["États-Unis", "Australie", "Canada", "Royaume-Uni"],
+		"correctAnswer": "Canada",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel pays forme une péninsule au sud de l’Europe ?",
+		"options": ["Espagne", "Italie", "Grèce", "France"],
+		"correctAnswer": "Italie",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quelle est la capitale de l’Espagne ?",
+		"options": ["Barcelone", "Madrid", "Séville", "Valence"],
+		"correctAnswer": "Madrid",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Dans quel pays se trouve la ville du Caire ?",
+		"options": ["Maroc", "Égypte", "Algérie", "Tunisie"],
+		"correctAnswer": "Égypte",
+		"difficulty": "facile",
+		"category": "Géographie"
+	},
+	{
+		"question": "Quel est le plus grand continent du monde ?",
+		"options": ["Afrique", "Amérique", "Asie", "Europe"],
+		"correctAnswer": "Asie",
+		"difficulty": "facile",
+		"category": "Géographie"
+	}
+]

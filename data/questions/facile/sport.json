@@ -1,0 +1,163 @@
+[
+  {
+    "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+    "options": ["Brésil", "Allemagne", "France", "Argentine"],
+    "correctAnswer": "France",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Qui est l'athlète le plus titré aux Jeux Olympiques ?",
+    "options": ["Usain Bolt", "Michael Phelps", "Simone Biles", "Carl Lewis"],
+    "correctAnswer": "Michael Phelps",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel sport est pratiqué dans le Tour de France ?",
+    "options": ["Football", "Cyclisme", "Tennis", "Basketball"],
+    "correctAnswer": "Cyclisme",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Combien de joueurs composent une équipe de football ?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": "11",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel est le nom de l'équipe de basketball de Los Angeles ?",
+    "options": ["Lakers", "Warriors", "Celtics", "Heat"],
+    "correctAnswer": "Lakers",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel joueur a remporté le plus grand nombre de titres de Wimbledon ?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "correctAnswer": "Roger Federer",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Dans quel sport utilise-t-on une raquette et une balle jaune ?",
+    "options": ["Tennis", "Badminton", "Squash", "Ping-pong"],
+    "correctAnswer": "Tennis",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel est le sport national du Japon ?",
+    "options": ["Karate", "Sumo", "Baseball", "Judo"],
+    "correctAnswer": "Sumo",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Qui a remporté le plus de titres en Formule 1 ?",
+    "options": ["Lewis Hamilton", "Sebastian Vettel", "Michael Schumacher", "Alain Prost"],
+    "correctAnswer": "Michael Schumacher",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Dans quel sport utilise-t-on un ballon rond ?",
+    "options": ["Football", "Rugby", "Basketball", "Handball"],
+    "correctAnswer": "Football",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel joueur de football est surnommé 'CR7' ?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Kylian Mbappé"],
+    "correctAnswer": "Cristiano Ronaldo",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde de football en 1998 ?",
+    "options": ["Brésil", "France", "Allemagne", "Argentine"],
+    "correctAnswer": "France",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel est le nom de l'équipe de football de Madrid ?",
+    "options": ["Real Madrid", "Atletico Madrid", "FC Barcelone", "Valencia CF"],
+    "correctAnswer": "Real Madrid",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel joueur de basketball a remporté le plus de titres NBA ?",
+    "options": ["Michael Jordan", "LeBron James", "Kareem Abdul-Jabbar", "Magic Johnson"],
+    "correctAnswer": "Kareem Abdul-Jabbar",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Qui est l'athlète le plus rapide du monde sur 100 mètres ?",
+    "options": ["Usain Bolt", "Carl Lewis", "Tyson Gay", "Asafa Powell"],
+    "correctAnswer": "Usain Bolt",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Combien de joueurs y a-t-il dans une équipe de basket-ball ?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "5",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel est le sport principal aux Jeux Olympiques d'hiver ?",
+    "options": ["Ski alpin", "Patinage artistique", "Hockey sur glace", "Bobsleigh"],
+    "correctAnswer": "Ski alpin",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Dans quel sport utilise-t-on une balle de baseball ?",
+    "options": ["Baseball", "Rugby", "Tennis", "Football américain"],
+    "correctAnswer": "Baseball",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Qui est considéré comme le meilleur boxeur de tous les temps ?",
+    "options": ["Mike Tyson", "Mohammed Ali", "Floyd Mayweather", "Manny Pacquiao"],
+    "correctAnswer": "Mohammed Ali",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quelle équipe de football a remporté la Ligue des Champions en 2020 ?",
+    "options": ["Bayern Munich", "Paris Saint-Germain", "Liverpool", "Manchester City"],
+    "correctAnswer": "Bayern Munich",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel est le sport le plus pratiqué au monde ?",
+    "options": ["Football", "Basketball", "Cricket", "Tennis"],
+    "correctAnswer": "Football",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Quel est le pays d'origine du rugby ?",
+    "options": ["Angleterre", "France", "Nouvelle-Zélande", "Australie"],
+    "correctAnswer": "Angleterre",
+    "difficulty": "facile",
+    "category": "Sport"
+  },
+  {
+    "question": "Qui est le joueur de tennis le plus titré en Grand Chelem ?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "correctAnswer": "Novak Djokovic",
+    "difficulty": "facile",
+    "category": "Sport"
+  }
+]

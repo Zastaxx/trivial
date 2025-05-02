@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "question": "Quelle est la capitale de la France ?",
+      "choices": ["Paris", "Lyon", "Marseille", "Toulouse"],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Quel est le plus grand océan du monde ?",
+      "choices": ["Atlantique", "Indien", "Pacifique", "Arctique"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Qui a peint la Joconde ?",
+      "choices": ["Raphaël", "Léonard de Vinci", "Michel-Ange", "Donatello"],
+      "answer": 1
+    }
+  ]
+  

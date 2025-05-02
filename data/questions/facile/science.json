@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Quel est l'élément chimique dont le symbole est O ?",
+    "options": ["Oxygène", "Ozone", "Or", "Oxyde"],
+    "correctAnswer": "Oxygène",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quelle est la planète la plus proche du soleil ?",
+    "options": ["Venus", "Mercure", "Mars", "Terre"],
+    "correctAnswer": "Mercure",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "De quel élément est composé l'eau ?",
+    "options": ["Hélium et Oxygène", "Hydrogène et Oxygène", "Carbone et Oxygène", "Hydrogène et Azote"],
+    "correctAnswer": "Hydrogène et Oxygène",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quel gaz est principalement responsable de l'effet de serre ?",
+    "options": ["Azote", "Oxygène", "Dioxyde de carbone", "Ozone"],
+    "correctAnswer": "Dioxyde de carbone",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quel est l'organe qui pompe le sang dans le corps humain ?",
+    "options": ["Le foie", "Les reins", "Le coeur", "Les poumons"],
+    "correctAnswer": "Le coeur",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Qui a proposé la théorie de la relativité ?",
+    "options": ["Isaac Newton", "Galilée", "Albert Einstein", "Nikola Tesla"],
+    "correctAnswer": "Albert Einstein",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quel est l'instrument utilisé pour mesurer la température ?",
+    "options": ["Thermomètre", "Baromètre", "Altimètre", "Manomètre"],
+    "correctAnswer": "Thermomètre",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quelle est la distance moyenne entre la Terre et la Lune ?",
+    "options": ["100 000 km", "200 000 km", "300 000 km", "384 400 km"],
+    "correctAnswer": "384 400 km",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quelle est la principale source d'énergie pour la photosynthèse ?",
+    "options": ["L'oxygène", "Le soleil", "L'eau", "L'azote"],
+    "correctAnswer": "Le soleil",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "options": ["Le cerveau", "Les poumons", "La peau", "Le foie"],
+    "correctAnswer": "La peau",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "options": ["H2O", "CO2", "O2", "H2O2"],
+    "correctAnswer": "H2O",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Combien de continents y a-t-il sur Terre ?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quel est l'organe responsable de la digestion ?",
+    "options": ["L'estomac", "Les reins", "Le coeur", "Le foie"],
+    "correctAnswer": "L'estomac",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quel est le gaz que nous respirons principalement ?",
+    "options": ["Azote", "Oxygène", "Dioxyde de carbone", "Hélium"],
+    "correctAnswer": "Azote",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Qui a découvert la gravité ?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galilée", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quelle est la planète la plus grande du système solaire ?",
+    "options": ["Terre", "Mars", "Jupiter", "Saturne"],
+    "correctAnswer": "Jupiter",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "De quoi est composé un atome ?",
+    "options": ["Protons et neutrons", "Protons, neutrons et électrons", "Électrons", "Protons et électrons"],
+    "correctAnswer": "Protons, neutrons et électrons",
+    "difficulty": "facile",
+    "category": "Science"
+  },
+  {
+    "question": "Quel est l'élément chimique qui compose l'air que nous respirons ?",
+    "options": ["Azote", "Oxygène", "Argon", "Dioxyde de carbone"],
+    "correctAnswer": "Azote",
+    "difficulty": "facile",
+    "category": "Science"
+  }
+]

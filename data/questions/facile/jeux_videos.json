@@ -1,0 +1,163 @@
+[
+  {
+    "question": "Quel est le personnage principal du jeu 'The Legend of Zelda' ?",
+    "options": ["Link", "Mario", "Samus", "Donkey Kong"],
+    "correctAnswer": "Link",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu vidéo a popularisé le genre Battle Royale ?",
+    "options": ["Fortnite", "PlayerUnknown's Battlegrounds", "Apex Legends", "Call of Duty: Warzone"],
+    "correctAnswer": "PlayerUnknown's Battlegrounds",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage de Sonic ?",
+    "options": ["Super Mario", "Sonic the Hedgehog", "Mega Man", "Crash Bandicoot"],
+    "correctAnswer": "Sonic the Hedgehog",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans 'Minecraft', quel matériau faut-il miner pour obtenir des diamants ?",
+    "options": ["Fer", "Diamant", "Pierre", "Or"],
+    "correctAnswer": "Diamant",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu a pour personnage principal Mario ?",
+    "options": ["Super Mario", "Donkey Kong", "Zelda", "Pokémon"],
+    "correctAnswer": "Super Mario",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu de course automobile est édité par Electronic Arts et se déroule dans un monde ouvert ?",
+    "options": ["Forza Horizon", "Need for Speed", "Gran Turismo", "Burnout Paradise"],
+    "correctAnswer": "Need for Speed",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans quel jeu vidéo incarne-t-on un chasseur de primes, un Mandalorien ?",
+    "options": ["Star Wars: Battlefront", "The Mandalorian", "Star Wars: The Force Unleashed", "Star Wars: Jedi Fallen Order"],
+    "correctAnswer": "Star Wars: The Force Unleashed",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel est le principal antagoniste de 'The Legend of Zelda' ?",
+    "options": ["Dark Link", "Ganon", "Bowser", "Dr. Robotnik"],
+    "correctAnswer": "Ganon",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu propose des créatures appelées Pokémon ?",
+    "options": ["Dragon Quest", "Final Fantasy", "Pokémon", "Zelda"],
+    "correctAnswer": "Pokémon",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel est le nom du premier jeu dans la série 'Grand Theft Auto' ?",
+    "options": ["GTA: San Andreas", "GTA V", "GTA III", "Grand Theft Auto"],
+    "correctAnswer": "Grand Theft Auto",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel est le nom du jeu où les joueurs luttent pour survivre dans un environnement désertique et hostile, créé par Hideo Kojima ?",
+    "options": ["Metal Gear Solid", "Death Stranding", "Horizon Zero Dawn", "Silent Hill"],
+    "correctAnswer": "Death Stranding",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans quel jeu doit-on sauver la princesse Peach ?",
+    "options": ["Super Mario Bros.", "Zelda", "Sonic the Hedgehog", "Metroid"],
+    "correctAnswer": "Super Mario Bros.",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans quel jeu les joueurs peuvent-ils construire des structures et collecter des ressources pour survivre ?",
+    "options": ["Minecraft", "Fortnite", "Battlefield", "Call of Duty"],
+    "correctAnswer": "Minecraft",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel personnage est un plombier italien dans la série de jeux vidéo 'Super Mario' ?",
+    "options": ["Luigi", "Mario", "Toad", "Bowser"],
+    "correctAnswer": "Mario",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu de course automobile est célèbre pour ses voitures sous licence et ses courses réalistes ?",
+    "options": ["Gran Turismo", "Need for Speed", "Forza Motorsport", "Mario Kart"],
+    "correctAnswer": "Gran Turismo",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans quel jeu vidéo incarnons-nous un assassin en mission à travers l'histoire ?",
+    "options": ["Assassin's Creed", "Prince of Persia", "Tomb Raider", "Hitman"],
+    "correctAnswer": "Assassin's Creed",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans quel jeu vidéo les joueurs prennent-ils le rôle de Lara Croft ?",
+    "options": ["Tomb Raider", "Uncharted", "The Last of Us", "Max Payne"],
+    "correctAnswer": "Tomb Raider",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu est connu pour sa bataille royale gratuite, où les joueurs se battent sur une île pour être le dernier survivant ?",
+    "options": ["Fortnite", "PUBG", "Apex Legends", "Call of Duty: Warzone"],
+    "correctAnswer": "Fortnite",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu met en scène un espion nommé James Bond ?",
+    "options": ["GoldenEye 007", "Hitman", "Metal Gear Solid", "James Bond: Nightfire"],
+    "correctAnswer": "GoldenEye 007",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu est basé sur des combats de karting avec des personnages issus de l'univers Mario ?",
+    "options": ["Mario Kart", "Crash Team Racing", "Sonic All-Star Racing", "Diddy Kong Racing"],
+    "correctAnswer": "Mario Kart",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Dans quel jeu vidéo faut-il survivre contre des vagues de zombies ?",
+    "options": ["Resident Evil", "Left 4 Dead", "The Walking Dead", "Call of Duty Zombies"],
+    "correctAnswer": "Left 4 Dead",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel est le nom du personnage dans 'Halo' qui porte l'armure Mjolnir ?",
+    "options": ["Master Chief", "Cortana", "Arbiter", "Tom Clancy"],
+    "correctAnswer": "Master Chief",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  },
+  {
+    "question": "Quel jeu d'arcade a été le premier à proposer un personnage jouable appelé Pac-Man ?",
+    "options": ["Pac-Man", "Donkey Kong", "Space Invaders", "Pong"],
+    "correctAnswer": "Pac-Man",
+    "difficulty": "facile",
+    "category": "Jeux-Vidéo"
+  }
+]

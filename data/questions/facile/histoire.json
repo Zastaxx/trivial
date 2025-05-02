@@ -1,0 +1,184 @@
+[
+  {
+    "question": "Qui a découvert l'Amérique en 1492 ?",
+    "options": ["Christophe Colomb", "Marco Polo", "Napoléon Bonaparte", "Jules César"],
+    "correctAnswer": "Christophe Colomb",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui était le premier empereur romain ?",
+    "options": ["Jules César", "Auguste", "Néron", "Trajan"],
+    "correctAnswer": "Auguste",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "options": ["1789", "1799", "1776", "1812"],
+    "correctAnswer": "1789",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui était le chef de l'armée allemande pendant la Seconde Guerre mondiale ?",
+    "options": ["Adolf Hitler", "Hermann Göring", "Winston Churchill", "Joseph Staline"],
+    "correctAnswer": "Adolf Hitler",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+    "options": ["Louis XVI", "Louis XIV", "François Ier", "Henri IV"],
+    "correctAnswer": "Louis XVI",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a été le premier président des États-Unis ?",
+    "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Franklin Roosevelt"],
+    "correctAnswer": "George Washington",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+    "options": ["1989", "1991", "1985", "1978"],
+    "correctAnswer": "1989",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel pharaon est connu pour avoir construit les pyramides de Gizeh ?",
+    "options": ["Ramsès II", "Cléopâtre", "Toutânkhamon", "Khéops"],
+    "correctAnswer": "Khéops",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel événement marqua la fin de la Première Guerre mondiale ?",
+    "options": ["Le traité de Versailles", "La bataille de Verdun", "L'attaque de Pearl Harbor", "Le débarquement en Normandie"],
+    "correctAnswer": "Le traité de Versailles",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel est le nom du bateau qui a coulé lors du naufrage de 1912 ?",
+    "options": ["Lusitania", "Titanic", "Queen Mary", "Mayflower"],
+    "correctAnswer": "Titanic",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel empire a été dirigé par Alexandre le Grand ?",
+    "options": ["Empire romain", "Empire grec", "Empire perse", "Empire macédonien"],
+    "correctAnswer": "Empire macédonien",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a été le leader du mouvement des droits civiques aux États-Unis dans les années 1960 ?",
+    "options": ["Martin Luther King", "Nelson Mandela", "Malcolm X", "Rosa Parks"],
+    "correctAnswer": "Martin Luther King",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "En quelle année a eu lieu la bataille de Waterloo ?",
+    "options": ["1815", "1805", "1789", "1870"],
+    "correctAnswer": "1815",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a écrit 'Le Contrat Social' ?",
+    "options": ["Jean-Jacques Rousseau", "Voltaire", "Montesquieu", "René Descartes"],
+    "correctAnswer": "Jean-Jacques Rousseau",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a été le dernier tsar de Russie ?",
+    "options": ["Ivan le Terrible", "Pierre le Grand", "Nicolas II", "Alexandre III"],
+    "correctAnswer": "Nicolas II",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel était le nom du navire qui transportait Christophe Colomb lors de son premier voyage en 1492 ?",
+    "options": ["Santa María", "La Pinta", "La Niña", "L'Endurance"],
+    "correctAnswer": "Santa María",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Dans quelle ville a eu lieu la première guerre mondiale ?",
+    "options": ["Paris", "Londres", "Berlin", "Sarajevo"],
+    "correctAnswer": "Sarajevo",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel est le nom de la guerre qui a eu lieu entre le Nord et le Sud des États-Unis ?",
+    "options": ["La guerre de Sécession", "La guerre d'Indépendance", "La guerre du Vietnam", "La guerre de Corée"],
+    "correctAnswer": "La guerre de Sécession",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a écrit la Déclaration des droits de l'homme et du citoyen ?",
+    "options": ["Napoléon Bonaparte", "Maximilien Robespierre", "Jean-Jacques Rousseau", "L'Assemblée nationale"],
+    "correctAnswer": "L'Assemblée nationale",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a été le leader de la France pendant la Seconde Guerre mondiale ?",
+    "options": ["Charles de Gaulle", "François Mitterrand", "Napoléon Bonaparte", "Georges Pompidou"],
+    "correctAnswer": "Charles de Gaulle",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quel président américain a aboli l'esclavage ?",
+    "options": ["Abraham Lincoln", "George Washington", "Theodore Roosevelt", "John F. Kennedy"],
+    "correctAnswer": "Abraham Lincoln",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quelle guerre a opposé les États-Unis et le Vietnam ?",
+    "options": ["La guerre du Vietnam", "La guerre de Corée", "La guerre de 1812", "La guerre du Golfe"],
+    "correctAnswer": "La guerre du Vietnam",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "En quelle année l'Empire romain d'Occident est-il tombé ?",
+    "options": ["476", "500", "1000", "300"],
+    "correctAnswer": "476",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a écrit 'La Guerre et la Paix' ?",
+    "options": ["Léon Tolstoï", "Fiodor Dostoïevski", "Anton Tchekhov", "Maxime Gorki"],
+    "correctAnswer": "Léon Tolstoï",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Qui a été le premier roi de France ?",
+    "options": ["Clovis", "Charlemagne", "Louis XIV", "Hugues Capet"],
+    "correctAnswer": "Clovis",
+    "difficulty": "facile",
+    "category": "Histoire"
+  },
+  {
+    "question": "Quand a eu lieu le débarquement en Normandie ?",
+    "options": ["6 juin 1944", "1er septembre 1939", "15 août 1945", "11 novembre 1918"],
+    "correctAnswer": "6 juin 1944",
+    "difficulty": "facile",
+    "category": "Histoire"
+  }
+]
